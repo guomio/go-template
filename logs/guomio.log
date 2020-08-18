@@ -1,0 +1,2 @@
+{"level":"info","time":"2020/08/17 16:56:16","msg":"[MIO]","status":404,"method":"GET","duration":"629ns","ip":"::1","path":"/"}
+{"level":"info","time":"2020/08/17 16:56:16","msg":"[MIO]","status":404,"method":"GET","duration":"558ns","ip":"::1","path":"/favicon.ico"}
